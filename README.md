@@ -28,8 +28,7 @@ I have a site [here](https://WanjohiWanjohi.github.io)
 
 Programmer who tells stories
 .
-!=[Wamuyu Wanjohi](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi&show_icons=true&include_all_commits=true)
-
+[![Wamuyu's github stats](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi)](https://github.com/WanjohiWanjohi/github-readme-stats)
 Thats's all folks
 
 ## Social Media
