@@ -43,8 +43,8 @@ many more...
 
 - Learning
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="28">](https://kubernetes.io/) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="28">](https://aws.amazon.com/) 
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/tensorflow.png" alt="python logo" width="28">](https://www.python.org/) 
 | many more...
 
@@ -54,8 +54,10 @@ You can find , clap , follow and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/WanjohiWanjohi) |
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/wanjohi_muyu) |
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/tableau.png" alt="stack logo" width="34">](https://dub01.online.tableau.com/#/site/multipleviews/home) |
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/kaggle.png" alt="gitlab logo" width="34">](https://www.kaggle.com/wamuyuwanjohi) | 
+[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/medium.png" alt="medium logo" width="34">](https://medium.com/@wamuyuwanjohi97) | 
+[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/tableau.png" alt="tableau logo" width="34">](https://dub01.online.tableau.com/#/site/multipleviews/home) |
+
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/zindi.png" alt="zindi logo" width="34">](https://zindi.africa/users/out) | 
 
 
