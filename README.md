@@ -36,7 +36,7 @@ I have a site [here](https://WanjohiWanjohi.github.io)
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) 
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/python.jpg" alt="python logo" width="24">](https://www.python.org/) 
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/Wanjohi/master/img/pandas.png" alt="pandas logo" width="24">](https://pandas.pydata.org/)
+[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/pandas.png" alt="pandas logo" width="24">](https://pandas.pydata.org/)
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/power_bi.png" alt="power bi logo" width="24">](https://powerbi.microsoft.com/en-us/)
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/) 
 many more...
