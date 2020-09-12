@@ -63,5 +63,5 @@ You can find , clap , follow and get touch with me on these accounts!
 
 
 
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+
