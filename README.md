@@ -1,14 +1,8 @@
 
 
-## Hi, im Wamuyu Wanjohi ⚡
+## Hello, my name is Wamuyu Wanjohi ⚡
 
-Data Analyst | Software Enginner
-
-DS Student.
-
-
-
-
+Data Analyst turned Software Enginner
 
 
 ## About me
@@ -17,37 +11,13 @@ DS Student.
 </p>
 Pronouns: she / her
 
-Python Programing ❤️| Social Statistics & Maths 💙| Books 💚
-
-Programmer who tells stories
-
-I'm from Nairobi - Kenya  
-
-I studied HTML |CSS & Javascript |Python  
-
-I have a site [here](https://WanjohiWanjohi.github.io)
+Here for the "aha" moments.
+I am from Nairobi - Kenya  
+I can proficiently actualize logic using:  Python & C# 
 
 
 [![Wamuyu's github stats](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi)](https://github.com/WanjohiWanjohi/github-readme-stats)
  
- 
-- Know/Using
-
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="30">](https://github.com/features/actions) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="30">](https://git-scm.com/) 
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/python.jpg" alt="python logo" width="30">](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/bootstrap.png" alt="bootstrap logo" width="30">](https://pandas.pydata.org/)
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/pandas.png" alt="pandas logo" width="30">](https://pandas.pydata.org/)
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/power_bi.png" alt="power bi logo" width="30">](https://powerbi.microsoft.com/en-us/)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/) 
-many more...
-
-- Learning
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="28">](https://kubernetes.io/) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="28">](https://aws.amazon.com/) 
-[<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/tensorflow.png" alt="python logo" width="28">](https://www.python.org/) 
-| many more...
 
 ### Other Accounts 📫
 
@@ -64,4 +34,6 @@ You can find , clap , follow and get touch with me on these accounts!
 
 
 - ⚡ Fun fact: 
+Bit will eventually become a state of matter I believe.
+
 
