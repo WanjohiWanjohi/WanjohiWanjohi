@@ -2,7 +2,7 @@
 
 ## Hello, my name is Wamuyu Wanjohi ⚡
 
-Data Analyst turned Software Enginner
+A Data analyst turned software enginner
 
 
 ## About me
