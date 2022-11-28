@@ -9,6 +9,9 @@ Data Analyst turned Software Enginner
 <p>
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
+
+
+
 Pronouns: she / her
 
 Here for the "aha" moments.
@@ -16,7 +19,16 @@ I am from Nairobi - Kenya
 I can proficiently actualize logic using:  Python & C# 
 
 
+
+
+
+
 [![Wamuyu's github stats](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi)](https://github.com/WanjohiWanjohi/github-readme-stats)
+ 
+ 
+ 
+ 
+ 
  
 
 ### Other Accounts 📫
