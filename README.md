@@ -10,8 +10,10 @@ A Data analyst turned software enginner
 Pronouns: she / her
 
 Here for the "aha" moments.
-I am from Nairobi - Kenya  
-I can proficiently actualize logic using:  Python & C# 
+
+I am from Nairobi - Kenya.
+
+I can proficiently actualize logic using:  Python & C# .
 
 
 ### ⚡ Fun fact: 
