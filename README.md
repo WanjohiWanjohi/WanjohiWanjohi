@@ -6,11 +6,6 @@ Data Analyst turned Software Enginner
 
 
 ## About me
-<p>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>
-
-
 
 Pronouns: she / her
 
@@ -19,18 +14,14 @@ I am from Nairobi - Kenya
 I can proficiently actualize logic using:  Python & C# 
 
 
+### ⚡ Fun fact: 
+Bit will eventually become a state of matter I believe.
 
-
-
+\
 
 [![Wamuyu's github stats](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi)](https://github.com/WanjohiWanjohi/github-readme-stats)
  
- 
- 
- 
- 
- 
-
+ \
 ### Other Accounts 📫
 
 You can find , clap , follow and get touch with me on these accounts!
@@ -45,7 +36,5 @@ You can find , clap , follow and get touch with me on these accounts!
 
 
 
-- ⚡ Fun fact: 
-Bit will eventually become a state of matter I believe.
 
 
