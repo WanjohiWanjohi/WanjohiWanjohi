@@ -13,11 +13,11 @@ Here for the "aha" moments (mine and others).
 
 I am from Nairobi - Kenya.
 
-I can proficiently actualize logic using:  Python & C# .
+I can proficiently actualize logic using:  Python & C#.
 
 
 ### ⚡ Fun fact: 
-Bit will eventually become a state of matter I believe.
+I believe bit will eventually become a state of matter.
 
 
 
@@ -25,7 +25,7 @@ Bit will eventually become a state of matter I believe.
 [![Wamuyu's github stats](https://github-readme-stats.vercel.app/api?username=WanjohiWanjohi)](https://github.com/WanjohiWanjohi/github-readme-stats)
  
  
-### ⚡ Engage me on:  📫
+### Engage me on:  📫
 I am always keen to hear anything about education & educational policy !
 
 You can find, clap, follow, and get in touch with me on these accounts!
