@@ -31,7 +31,6 @@ I am always keen to hear anything about education & educational policy !
 You can find, clap, follow, and get in touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/WanjohiWanjohi) |
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/wanjohi_muyu) |
 [<img src="https://raw.githubusercontent.com/WanjohiWanjohi/WanjohiWanjohi/master/img/medium.png" alt="medium logo" width="34">](https://medium.com/@wamuyuwanjohi97) 
 
 
